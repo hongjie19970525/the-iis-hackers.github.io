@@ -1,0 +1,9 @@
+body,
+input {
+  font-family: "bookman old style";
+  font-size: 12pt;
+}
+
+input {
+  border: 2px dashed indianred;
+}
